@@ -14,8 +14,8 @@ body{
 
     /* box shadow  */
     box-shadow: -12px 40px 65px -17px rgba(26,26,26,0.2);
--webkit-box-shadow: -12px 40px 65px -17px rgba(26,26,26,0.2);
--moz-box-shadow: -12px 40px 65px -17px rgba(26,26,26,0.2);
+    -webkit-box-shadow: -12px 40px 65px -17px rgba(26,26,26,0.2);
+    -moz-box-shadow: -12px 40px 65px -17px rgba(26,26,26,0.2);
 }
 
 .login button{
